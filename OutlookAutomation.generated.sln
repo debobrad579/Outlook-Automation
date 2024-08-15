@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OutlookAutomation", "OutlookAutomation.csproj", "{A45A4C96-D22B-4658-8275-F8C3973873BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OutlookAutomation", "OutlookAutomation.csproj", "{B16A9C04-B72B-42EC-A28C-E2FF32D1C0BD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A45A4C96-D22B-4658-8275-F8C3973873BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A45A4C96-D22B-4658-8275-F8C3973873BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A45A4C96-D22B-4658-8275-F8C3973873BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A45A4C96-D22B-4658-8275-F8C3973873BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B16A9C04-B72B-42EC-A28C-E2FF32D1C0BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B16A9C04-B72B-42EC-A28C-E2FF32D1C0BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B16A9C04-B72B-42EC-A28C-E2FF32D1C0BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B16A9C04-B72B-42EC-A28C-E2FF32D1C0BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
